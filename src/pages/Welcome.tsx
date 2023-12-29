@@ -31,7 +31,9 @@ export const Welcome = () => {
           className='fixed left-0 top-1/4 h-full max-h-[20rem] max-w-[50%] -translate-y-20 object-contain'
         />
         <h1 className='text-24xl z-10 max-w-full overflow-visible whitespace-nowrap text-center font-extrabold leading-[40.56px] tracking-tight text-primary-white'>
-          WHERE'S
+          WHO'S
+          <br/>
+          THE
           <br />
           ALEX?
         </h1>
